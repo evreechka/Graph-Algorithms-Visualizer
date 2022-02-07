@@ -22,10 +22,6 @@ This project is Java GUI application, which allow you work with graphs. Create _
 - _Dijkstra's algorithm_ allow to find the shortest path between selected vertex and other vertices.
 - _Prim's algorithm_ for a minimum spanning tree (MTS). MTS is a subset of the edges of a connected edge-weighted undirected graph. It connects all graph vertices with the minimum possible total edge weight without cycles.
 
-**Technologies**
-- Swing
-- Maven
-
 **Launch**
 
 Clone this repository and run command `mvn package -PRun` in terminal.
